@@ -90,7 +90,7 @@ In the project directory, you can run:
 </div>
  ```
  
-## Перепишите код на JSX.
+12. ##  Перепишите код на JSX.
 
 ```
 import React from "react";
